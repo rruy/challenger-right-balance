@@ -12,3 +12,4 @@ Outputs:
 "ax5bx1cxax2"
 "mxixsx1ixsx1ixpx1ix"
 
+Write the code in method compress(str)
